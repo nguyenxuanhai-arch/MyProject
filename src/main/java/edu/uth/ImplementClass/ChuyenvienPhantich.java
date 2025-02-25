@@ -9,3 +9,4 @@ public class ChuyenvienPhantich extends Nhanvien{
         super(maso,hoten,luongCB);
     }
 }
+
